@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... practical side of Machine Learning and Data Visualization.
 - 👯 I’m looking to collaborate on ... any Data Science and Machine Learning related work.
 - 💬 Ask me about ... my photography.
-- 📫 How to reach me: ... egaur@asu.edu; [LinkedIn](https://linkedin.com/in/eshangaur); 
+- 📫 How to reach me: ... egaur@asu.edu; [LinkedIn](https://www.linkedin.com/in/eshangaur/); 
 - 📝 See my [Resume](https://www.dropbox.com/s/hoibynct4kmh5mk/eshan_gaur_resume.pdf?dl=0) to get more info.
 - 😄 Pronouns: ... He/Him/They/Them
 - ⚡ Fun fact: ... I have flat feet :(.
