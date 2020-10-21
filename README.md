@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**eshangaur/esnagaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eshangaur/esnagaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 - 🔭 I’m currently working on ... an ML model.
 - 🌱 I’m currently learning ... practical side of Machine Learning and Data Visualization.
