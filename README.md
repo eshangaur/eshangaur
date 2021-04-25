@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... an ML model.
-- 🌱 I’m currently learning ... practical side of Machine Learning and Data Visualization.
+- 🌱 I’m currently learning ... applied Machine Learning large scale data intesive application.
 - 👯 I’m looking to collaborate on ... any Data Science and Machine Learning related work.
 - 💬 Ask me about ... my photography.
 - 📫 How to reach me: ... egaur@asu.edu; [LinkedIn](https://www.linkedin.com/in/eshangaur/); 
